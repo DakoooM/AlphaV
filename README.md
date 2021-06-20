@@ -8,7 +8,7 @@ Elle contient 95% de RageUI et elle tourne a 1.00 ms selon votre PC !
 
 Contributeurs: Alexi, DakoM, Nehco
 
-## Aucun Support ne sera donner pour cette base !
+### Aucun Support ne sera donner pour cette base !
 
 
 ### English:
@@ -19,7 +19,7 @@ It contains 95% of RageUI and it runs at 1.00 ms depending on your PC!
 
 Contributors: Alexi, DakoM, Nehco
 
-## No support will be given for this database!
+### No support will be given for this database!
 
 [Discord Support/Release](https://discord.gg/EBfXQ94ewu)
 
