@@ -9,9 +9,8 @@ Elle contient 95% de RageUI et elle tourne a 1.00 ms selon votre PC !
 
 Contributeurs: Alexi, DakoM, Nehco
 
-- Téléchargement: https://mega.nz/file/1mhkUAQL
-
-- Clé de Déchiffrement: **kPoY13xXod7sRjzp8NuaLXUetrD63xspioixzXAEhVg**
+- **Téléchargement:** https://mega.nz/file/1mhkUAQL
+- **Clé de Déchiffrement:** kPoY13xXod7sRjzp8NuaLXUetrD63xspioixzXAEhVg
 
 ### Aucun Support ne sera donner pour cette base !
 
@@ -24,6 +23,9 @@ We are releasing this base because of people with bad intentions.
 It contains 95% of RageUI and it runs at 1.00 ms depending on your PC!
 
 Contributors: Alexi, DakoM, Nehco
+
+- Download:** https://mega.nz/file/1mhkUAQL
+- Decryption Key:** kPoY13xXod7sRjzp8NuaLXUetrD63xspioixzXAEhVg
 
 ### No support will be given for this database!
 
