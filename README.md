@@ -7,7 +7,7 @@ Nous releasons cette base a cause de personnes ayant des intentions mauvaise.
 
 Elle contient 95% de [RageUI](https://github.com/iTexZoz/RageUI) et elle tourne a 1.00 ms selon votre Ordinateur !
 
-Contributeurs: Alexi, DakoM, Nehco
+Contributeurs: Alexi, Djack, iMax, DakoM, Nehco
 
 - **Téléchargement:** https://mega.nz/file/1mhkUAQL
 - **Clé de Déchiffrement:** kPoY13xXod7sRjzp8NuaLXUetrD63xspioixzXAEhVg
@@ -22,7 +22,7 @@ We are releasing this base because of people with bad intentions.
 
 It contains 95% of [RageUI](https://github.com/iTexZoz/RageUI) and it runs at 1.00 ms depending on your Computer !
 
-Contributors: Alexi, DakoM, Nehco
+Contributors: Alexi, Djack, iMax, DakoM, Nehco
 
 - **Download:** https://mega.nz/file/1mhkUAQL
 - **Decryption Key:** kPoY13xXod7sRjzp8NuaLXUetrD63xspioixzXAEhVg
