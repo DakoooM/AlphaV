@@ -24,8 +24,8 @@ It contains 95% of RageUI and it runs at 1.00 ms depending on your PC!
 
 Contributors: Alexi, DakoM, Nehco
 
-- Download:** https://mega.nz/file/1mhkUAQL
-- Decryption Key:** kPoY13xXod7sRjzp8NuaLXUetrD63xspioixzXAEhVg
+- **Download:** https://mega.nz/file/1mhkUAQL
+- **Decryption Key:** kPoY13xXod7sRjzp8NuaLXUetrD63xspioixzXAEhVg
 
 ### No support will be given for this database!
 
