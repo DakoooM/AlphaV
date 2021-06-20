@@ -8,3 +8,8 @@ Elle contient 95% de RageUI et elle tourne a 1.00 ms selon votre PC !
 Contributeurs: Alexi, DakoM, Nehco
 
 ## Aucun Support ne sera donner pour cette base !
+
+[Discord Support/Release](https://discord.gg/EBfXQ94ewu)
+
+
+[Discord Shop FiveM](https://discord.gg/mUmeeUsFcU)
