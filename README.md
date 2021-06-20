@@ -22,6 +22,8 @@ Contributors: Alexi, DakoM, Nehco
 
 ### No support will be given for this database!
 
+____
+
 [Discord Support/Release](https://discord.gg/EBfXQ94ewu)
 
 
