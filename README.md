@@ -9,7 +9,7 @@ Elle contient 95% de [RageUI](https://github.com/iTexZoz/RageUI) & elle tourne a
 
 Contributeurs: Alexi, Djack, iMax, DakoM, Nehco
 
-- **Téléchargement:** https://mega.nz/file/wiQXCSIR
+- **Téléchargement:** https://mega.nz/file/c6wTkKKa
 
 - **Clé de Déchiffrement:** [Discord](https://discord.gg/EBfXQ94ewu)
 
@@ -25,7 +25,7 @@ It contains 95% of [RageUI](https://github.com/iTexZoz/RageUI) and it runs at 1.
 
 Contributors: Alexi, Djack, iMax, DakoM, Nehco
 
-- **Download:** https://mega.nz/file/wiQXCSIR
+- **Download:** https://mega.nz/file/c6wTkKKa
 
 - **Decryption Key:** [Discord](https://discord.gg/EBfXQ94ewu)
 
