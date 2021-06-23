@@ -3,7 +3,7 @@ ____
 
 ### French:
 Voila nous arrivons enfin au moment que tout les jaloux souhaitez voir.
-Nous releasons cette base a cause de personnes ayant des intentions mauvaise.
+Nous avons release cette base a cause de personnes ayant des intentions mauvaise.
 
 Elle contient 95% de [RageUI](https://github.com/iTexZoz/RageUI) & elle tourne a 1.00 ms selon votre Ordinateur & Elle contient 29 resources !
 
