@@ -9,8 +9,8 @@ Elle contient 95% de [RageUI](https://github.com/iTexZoz/RageUI) et elle tourne 
 
 Contributeurs: Alexi, Djack, iMax, DakoM, Nehco
 
-- **Téléchargement:** https://mega.nz/file/1mhkUAQL
-- **Clé de Déchiffrement:** kPoY13xXod7sRjzp8NuaLXUetrD63xspioixzXAEhVg
+- **Téléchargement:** https://mega.nz/file/wiQXCSIR
+- **Clé de Déchiffrement:** oRCyxRAeTi_9vmBrthxaIGadHJ6ZzavYMXbsYvOIFnw
 
 ### Aucun Support ne sera donner pour cette base !
 
@@ -24,8 +24,8 @@ It contains 95% of [RageUI](https://github.com/iTexZoz/RageUI) and it runs at 1.
 
 Contributors: Alexi, Djack, iMax, DakoM, Nehco
 
-- **Download:** https://mega.nz/file/1mhkUAQL
-- **Decryption Key:** kPoY13xXod7sRjzp8NuaLXUetrD63xspioixzXAEhVg
+- **Download:** https://mega.nz/file/wiQXCSIR
+- **Decryption Key:** oRCyxRAeTi_9vmBrthxaIGadHJ6ZzavYMXbsYvOIFnw
 
 ### No support will be given for this database!
 
