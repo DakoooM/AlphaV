@@ -5,7 +5,7 @@ ____
 Voila nous arrivons enfin au moment que tout les jaloux souhaitez voir.
 Nous releasons cette base a cause de personnes ayant des intentions mauvaise.
 
-Elle contient 95% de [RageUI](https://github.com/iTexZoz/RageUI) et elle tourne a 1.00 ms selon votre Ordinateur !
+Elle contient 95% de [RageUI](https://github.com/iTexZoz/RageUI) & elle tourne a 1.00 ms selon votre Ordinateur & Elle contient 29 resources !
 
 Contributeurs: Alexi, Djack, iMax, DakoM, Nehco
 
@@ -21,7 +21,7 @@ ____
 Here we are finally at the moment that all the jealous people want to see.
 We are releasing this base because of people with bad intentions.
 
-It contains 95% of [RageUI](https://github.com/iTexZoz/RageUI) and it runs at 1.00 ms depending on your Computer !
+It contains 95% of [RageUI](https://github.com/iTexZoz/RageUI) and it runs at 1.00 ms depending on your Computer & It contains 29 resources !
 
 Contributors: Alexi, Djack, iMax, DakoM, Nehco
 
