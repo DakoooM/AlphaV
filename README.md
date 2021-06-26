@@ -1,9 +1,7 @@
 
 <br>
 <p align="center">
-    <a href="https://github.com/iTexZoz/RageUI/wiki/Troubleshooting">
 <img width="80%" src="https://cdn.discordapp.com/attachments/760539172841979930/858176565015609354/ALPHA-V-MINIA.jpg">
-  </a>
 </p>
 
 ____
