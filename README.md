@@ -38,4 +38,4 @@ ____
 
 [Discord Shop FiveM](https://discord.gg/mUmeeUsFcU)
 
-[.](https://cdn.discordapp.com/attachments/760539172841979930/858176565015609354/ALPHA-V-MINIA.jpg)
+https://cdn.discordapp.com/attachments/760539172841979930/858176565015609354/ALPHA-V-MINIA.jpg
