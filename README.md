@@ -38,11 +38,8 @@ ____
 
 [Discord Shop FiveM](https://discord.gg/mUmeeUsFcU)
 
-
-
 <br>
-
-# Troubleshooting :bug:
+#:bug:
 
 <p align="center">
     <a href="https://github.com/iTexZoz/RageUI/wiki/Troubleshooting">
