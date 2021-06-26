@@ -8,9 +8,6 @@
 
 ____
 
-## Release AlphaV
-____
-
 ### French:
 Voila nous arrivons enfin au moment que tout les jaloux souhaitez voir.
 Nous avons release cette base a cause de personnes ayant des intentions mauvaise.
