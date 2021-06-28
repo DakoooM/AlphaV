@@ -30,7 +30,7 @@ It contains 95% of [RageUI](https://github.com/iTexZoz/RageUI) and it runs at 1.
 
 Contributors: Alexi, Djack, iMax, DakoM, Nehco
 
-- **Download:** https://mega.nz/file/c6wTkKKa
+- **Download:** https://mega.nz/file/Y7AhkCpI
 
 - **Decryption Key:** [Discord](https://discord.gg/EBfXQ94ewu)
 
