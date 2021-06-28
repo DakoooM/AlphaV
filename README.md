@@ -14,7 +14,7 @@ Elle contient 95% de [RageUI](https://github.com/iTexZoz/RageUI) & elle tourne a
 
 Contributeurs: Alexi, Djack, iMax, DakoM, Nehco
 
-- **Téléchargement:** https://mega.nz/file/c6wTkKKa
+- **Téléchargement:** https://mega.nz/file/Y7AhkCpI
 
 - **Clé de Déchiffrement:** [Discord](https://discord.gg/EBfXQ94ewu)
 
