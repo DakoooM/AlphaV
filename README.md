@@ -12,7 +12,7 @@ Nous avons release cette base a cause de personnes ayant des intentions mauvaise
 
 Elle contient 95% de [RageUI](https://github.com/iTexZoz/RageUI) & elle tourne a 1.00 ms selon votre Ordinateur & Elle contient 29 resources !
 
-Contributeurs: Alexi, Djack, iMax, DakoM, Nehco
+Contributeurs: DakoM, Djack, iMax, Nehco
 
 - **Téléchargement:** https://mega.nz/file/Y7AhkCpI
 
@@ -28,7 +28,7 @@ We are releasing this base because of people with bad intentions.
 
 It contains 95% of [RageUI](https://github.com/iTexZoz/RageUI) and it runs at 1.00 ms depending on your Computer & It contains 29 resources !
 
-Contributors: Alexi, Djack, iMax, DakoM, Nehco
+Contributors: DakoM, Djack, iMax, Nehco
 
 - **Download:** https://mega.nz/file/Y7AhkCpI
 
