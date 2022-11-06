@@ -16,7 +16,7 @@ Contributeurs: DakoM, Djack, iMax
 
 - **Téléchargement:** https://mega.nz/file/Y7AhkCpI
 
-- **Clé de Déchiffrement:** [Discord](https://discord.gg/EBfXQ94ewu) UiuuH4AJVnlZKtvR1C8q0MyjZTaBbd9r1iNAFMzqC40
+- **Clé de Déchiffrement:** UiuuH4AJVnlZKtvR1C8q0MyjZTaBbd9r1iNAFMzqC40
 
 ### Aucun Support ne sera donner pour cette base !
 
@@ -32,7 +32,7 @@ Contributors: DakoM, Djack, iMax
 
 - **Download:** https://mega.nz/file/Y7AhkCpI
 
-- **Decryption Key:** [Discord](https://discord.gg/EBfXQ94ewu) UiuuH4AJVnlZKtvR1C8q0MyjZTaBbd9r1iNAFMzqC40
+- **Decryption Key:** UiuuH4AJVnlZKtvR1C8q0MyjZTaBbd9r1iNAFMzqC40
 
 ### No support will be given for this database!
 
