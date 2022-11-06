@@ -38,7 +38,7 @@ Contributors: DakoM, Djack, iMax
 
 ____
 
-[Discord Support/Release](https://discord.gg/EBfXQ94ewu)
+[Discord Support/Release](https://discord.gg/XYpDRhjdMU)
 
 
-[Discord Shop FiveM](https://discord.gg/mUmeeUsFcU)
+[Discord Shop FiveM](https://discord.gg/XYpDRhjdMU)
